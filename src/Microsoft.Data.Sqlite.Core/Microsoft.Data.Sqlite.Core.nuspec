@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CTSF.Data.Sqlite.Core</id>
-    <version>5.0.9</version>
+    <version>5.0.10</version>
     <title>CTSF.Data.Sqlite.Core</title>
     <authors>CT-Software team</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -18,6 +18,7 @@
   </metadata>
   
   <files>
-	<file src="..\..\artifacts\bin\Microsoft.Data.Sqlite.Core\Release\**\*.*" target="" />
+	<file src="..\..\artifacts\bin\Microsoft.Data.Sqlite.Core\Release\netstandard2.0\*.*" target="lib\uap10.0" />
+    <!--file src="..\..\artifacts\bin\Microsoft.Data.Sqlite.Core\Release\netstandard2.0\*.*" target="netstandard2.0" /-->
   </files>
 </package>
