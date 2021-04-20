@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CTSF.Data.Sqlite.Core</id>
-    <version>5.0.8</version>
+    <version>5.0.9</version>
     <title>CTSF.Data.Sqlite.Core</title>
     <authors>CT-Software team</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
