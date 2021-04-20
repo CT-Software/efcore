@@ -18,6 +18,6 @@
   </metadata>
   
   <files>
-	<file src="..\..\artifacts\bin\EFCore.Sqlite.Core\Release\**\*.*" target="" />
+	<file src="..\..\artifacts\bin\Microsoft.Data.Sqlite.Core\Release\**\*.*" target="" />
   </files>
 </package>
