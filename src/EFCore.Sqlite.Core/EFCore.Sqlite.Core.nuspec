@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CTSF.Data.Sqlite.Core</id>
-    <version>5.0.7</version>
+    <version>5.0.8</version>
     <title>CTSF.Data.Sqlite.Core</title>
     <authors>CT-Software team</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -16,4 +16,8 @@
       </group>
     </dependencies>
   </metadata>
+  
+  <files>
+	<file src="..\..\artifacts\bin\EFCore.Sqlite.Core\Release\**\*.*" target="" />
+  </files>
 </package>
