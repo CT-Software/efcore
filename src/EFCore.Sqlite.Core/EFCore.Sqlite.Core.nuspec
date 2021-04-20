@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CTSF.Data.Sqlite.Core</id>
+    <version>5.0.7</version>
+    <title>CTSF.Data.Sqlite.Core</title>
+    <authors>CT-Software team</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Patched version Microsoft.Data.Sqlite.Core</description>
+    <copyright>Copyright 2021</copyright>
+    <tags></tags>
+    
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="SQLitePCLRaw.core" version="2.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
